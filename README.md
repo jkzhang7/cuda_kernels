@@ -1,2 +1,2 @@
-# cuda_kernels
+# CUDA kernels
 CUDA programming for fun!
